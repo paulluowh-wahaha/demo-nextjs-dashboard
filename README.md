@@ -1,3 +1,7 @@
+# demo-nextjs-dashboard
+
+This is a first demo on the way to learning Next.js.
+
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
